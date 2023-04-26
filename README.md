@@ -8,7 +8,7 @@ This provider allows to recover data from the System:
 
 ````json
 {
-    "source": "./components/SystemProvider-0.0.1.jar",
+    "source": "https://github.com/helio-ecosystem/helio-provider-system/releases/download/v0.0.1/SystemProvider-0.0.1.jar",
     "clazz":"helio.providers.SystemProvider",
     "type":"PROVIDER"
  }
